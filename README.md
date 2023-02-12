@@ -6,17 +6,13 @@
 </div>
 <br>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Samuel Freitas">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Jeison Thiago">
 
-<p align="left"> 
-  <ul>
-    <li>🎓 &nbsp; Graduando em Análise de Desenvolvimento de Sistemas.</li>
-    <li>📚 &nbsp; Cursando Bacharelado em Engenharia de Software.</li>
-    <li>💼 &nbsp; Analista de Testes de Software no Grupo ICTS.</li>
-    <li>📘 &nbsp; Aprendendo mais sobre Automação de Software.</li>
-    <li>📍 &nbsp; Morando em Manaus-AM (Brasil). </li>
-  </ul>
-</p>
+- 🎓 Graduando em Análise de Desenvolvimento de Sistemas.
+- 📚 Cursando Bacharelado em Engenharia de Software.
+- 💼 Analista de Testes de Software no [Grupo ICTS](https://www.grupoicts.com.br/)
+- 📘 Aprendendo mais sobre Automação de Software.
+- 📍 Morando em Manaus-AM (Brasil).
 
 <p align="justify"> 
 Experiência em automação de testes, incluindo planejamento e execução usando ferramentas como Robot Framework, Playwright, Appium e Cypress. Conhecimentos em Python e atualmente estudando Java com Cucumber, Selenium WebDriver e REST Assured para melhorar habilidades em testes de aplicações WEB e API. Buscando constante evolução na área, com foco em testes manuais e automatizados, para garantir a qualidade dos sistemas.
@@ -39,6 +35,7 @@ Experiência em automação de testes, incluindo planejamento e execução usand
 </a> <a href="https://appium.io/" target=_blank" rel"noreferrer"> <img alt="Appium" height="30" width="30" src="https://seeklogo.com/images/A/appium-logo-2AB368AF4A-seeklogo.com.png">
 </a> <a href="https://insomnia.rest/download" target=_blank" rel"noreferrer"> <img alt="Insomnia" height="30" width="30" src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png">
 </a> <a href="https://www.postman.com/" target=_blank" rel"noreferrer"> <img alt="Postman" height="30" width="30" src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png">
+</a> <a href="https://git-scm.com/" target=_blank" rel"noreferrer"> <img alt="Git" height="30" width="30" src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png">
 </a> <a href="https://www.mysql.com/" target=_blank" rel"noreferrer"> <img alt="MySQL" height="30" width="30" src="https://seeklogo.com/images/M/mysql-logo-69B39F7D18-seeklogo.com.png">
 </a> <a href="https://www.elephantsql.com/" target=_blank" rel"noreferrer"> <img alt="ElephantSQL" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png">
 </a> <a href="https://www.inflectra.com/" target=_blank" rel"noreferrer"> <img alt="SpiraTest" height="30" width="30" src="https://www.inflectra.com/Images/Media-Kit/inflectra-icon-transparent.png">
