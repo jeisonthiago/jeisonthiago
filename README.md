@@ -19,7 +19,7 @@
 </p>
 
 <p align="justify"> 
-Experiência em automação de testes, planejamento e execução usando ferramentas como Robot Framework, Playwright, Appium e Cypress. Conhecimentos em Python e atualmente estudando Java com Cucumber, Selenium WebDriver e REST Assured para melhorar habilidades em testes de aplicações WEB e API. Buscando constante evolução na área, com foco em testes manuais e automatizados, para garantir a qualidade dos sistemas.
+Experiência em automação de testes, incluindo planejamento e execução usando ferramentas como Robot Framework, Playwright, Appium e Cypress. Conhecimentos em Python e atualmente estudando Java com Cucumber, Selenium WebDriver e REST Assured para melhorar habilidades em testes de aplicações WEB e API. Buscando constante evolução na área, com foco em testes manuais e automatizados, para garantir a qualidade dos sistemas.
 </p>
 
 <a href="https://www.linkedin.com/in/jeisonthiago" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
