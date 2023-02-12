@@ -36,6 +36,7 @@ Experiência em automação de testes, incluindo planejamento e execução usand
 </a> <a href="https://insomnia.rest/download" target=_blank" rel"noreferrer"> <img alt="Insomnia" height="30" width="30" src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png">
 </a> <a href="https://www.postman.com/" target=_blank" rel"noreferrer"> <img alt="Postman" height="30" width="30" src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png">
 </a> <a href="https://git-scm.com/" target=_blank" rel"noreferrer"> <img alt="Git" height="30" width="30" src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png">
+</a> <a href="https://about.gitlab.com/" target=_blank" rel"noreferrer"> <img alt="GitLab" height="30" width="30" src="https://seeklogo.com/images/G/gitlab-logo-757620E430-seeklogo.com.png">
 </a> <a href="https://code.visualstudio.com/" target=_blank" rel"noreferrer"> <img alt="Visual Studio Code" height="30" width="30" src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png">
 </a> <a href="https://trello.com/" target=_blank" rel"noreferrer"> <img alt="Trello" height="30" width="30" src="https://seeklogo.com/images/T/trello-logo-CE7B690E34-seeklogo.com.png">
 </a> <a href=https://www.atlassian.com/software/jira/work-management" target=_blank" rel"noreferrer"> <img alt="Jira" height="30" width="30" src="https://seeklogo.com/images/J/jira-logo-C71F8C0324-seeklogo.com.png">
