@@ -43,7 +43,7 @@ Experiência em automação de testes, incluindo planejamento e execução usand
 </a> <a href="https://azure.microsoft.com/en-us/products/devops/" target=_blank" rel"noreferrer"> <img alt="Azure DevOps" height="30" width="30" src="https://seeklogo.com/images/A/azure-devops-logo-E7364216A7-seeklogo.com.png">
 </div>
 
-## 🚀 Estou aprendendo
+## 🚀 Estudando
 
 <div>
 </a> <a href="https://www.java.com/" target=_blank" rel"noreferrer"> <img alt="Java" height="30" width="30" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png">
