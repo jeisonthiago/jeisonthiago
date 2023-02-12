@@ -41,6 +41,11 @@ Experiência em automação de testes, incluindo planejamento e execução usand
 </a> <a href="https://www.inflectra.com/" target=_blank" rel"noreferrer"> <img alt="SpiraTest" height="30" width="30" src="https://www.inflectra.com/Images/Media-Kit/inflectra-icon-transparent.png">
 </a> <a href="https://www.jenkins.io/" target=_blank" rel"noreferrer"> <img alt="Jenkins" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg">
 </a> <a href="https://azure.microsoft.com/en-us/products/devops/" target=_blank" rel"noreferrer"> <img alt="Azure DevOps" height="30" width="30" src="https://seeklogo.com/images/A/azure-devops-logo-E7364216A7-seeklogo.com.png">
+</div>
+
+## 🚀 Estou aprendendo
+
+<div>
 </a> <a href="https://www.java.com/" target=_blank" rel"noreferrer"> <img alt="Java" height="30" width="30" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png">
 </a> <a href="https://cucumber.io/" target=_blank" rel"noreferrer"> <img alt="Cucumber" height="30" width="30" src="https://seeklogo.com/images/C/cucumber-logo-D727C551CE-seeklogo.com.png">
 </a> <a href="https://www.selenium.dev/" target=_blank" rel"noreferrer"> <img alt="Selenium WebDriver" height="30" width="30" src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png">
