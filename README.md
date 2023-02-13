@@ -11,7 +11,7 @@
 - 🎓 Graduando em Análise de Desenvolvimento de Sistemas.
 - 📚 Cursando Bacharelado em Engenharia de Software.
 - 💼 Analista de Testes de Software no [Grupo ICTS](https://www.grupoicts.com.br/)
-- 📘 Aprendendo mais sobre Automação de Software.
+- 🤖 Otimizando tempo com Automação de Software.
 - 📍 Morando em Manaus-AM (Brasil).
 
 <p align="justify"> 
