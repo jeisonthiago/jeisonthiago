@@ -36,6 +36,10 @@ Experiência em planejamento e execução de testes manuais e automatizados. Uti
 </a> <a href="https://www.python.org/" target=_blank" rel"noreferrer"> <img alt="Python" height="30" width="30" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png">
 </a> <a href="https://www.javascript.com/" target=_blank" rel"noreferrer"> <img alt="Javascript" height="30" width="30" src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png">
 </a> <a href="https://playwright.dev/" target=_blank" rel"noreferrer"> <img alt="Playwright" height="30" width="30" src="https://seeklogo.com/images/P/playwright-logo-22FA8B9E63-seeklogo.com.png">
+</a> <a href="https://www.java.com/" target=_blank" rel"noreferrer"> <img alt="Java" height="30" width="30" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png">
+</a> <a href="https://cucumber.io/" target=_blank" rel"noreferrer"> <img alt="Cucumber" height="30" width="30" src="https://seeklogo.com/images/C/cucumber-logo-D727C551CE-seeklogo.com.png">
+</a> <a href="https://www.selenium.dev/" target=_blank" rel"noreferrer"> <img alt="Selenium WebDriver" height="30" width="30" src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png">
+</a> <a href="https://rest-assured.io/" target=_blank" rel"noreferrer"> <img alt="REST Assured" height="30" width="30" src="https://rest-assured.io/img/logo-transparent.png">
 </a> <a href="https://appium.io/" target=_blank" rel"noreferrer"> <img alt="Appium" height="30" width="30" src="https://seeklogo.com/images/A/appium-logo-2AB368AF4A-seeklogo.com.png">
 </a> <a href="https://insomnia.rest/download" target=_blank" rel"noreferrer"> <img alt="Insomnia" height="30" width="30" src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png">
 </a> <a href="https://www.postman.com/" target=_blank" rel"noreferrer"> <img alt="Postman" height="30" width="30" src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png">
@@ -49,13 +53,4 @@ Experiência em planejamento e execução de testes manuais e automatizados. Uti
 </a> <a href="https://www.inflectra.com/" target=_blank" rel"noreferrer"> <img alt="SpiraTest" height="30" width="30" src="https://www.inflectra.com/Images/Media-Kit/inflectra-icon-transparent.png">
 </a> <a href="https://www.jenkins.io/" target=_blank" rel"noreferrer"> <img alt="Jenkins" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg">
 </a> <a href="https://azure.microsoft.com/en-us/products/devops/" target=_blank" rel"noreferrer"> <img alt="Azure DevOps" height="30" width="30" src="https://seeklogo.com/images/A/azure-devops-logo-E7364216A7-seeklogo.com.png">
-</div>
-
-## 🚀 Estudando
-
-<div>
-</a> <a href="https://www.java.com/" target=_blank" rel"noreferrer"> <img alt="Java" height="30" width="30" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png">
-</a> <a href="https://cucumber.io/" target=_blank" rel"noreferrer"> <img alt="Cucumber" height="30" width="30" src="https://seeklogo.com/images/C/cucumber-logo-D727C551CE-seeklogo.com.png">
-</a> <a href="https://www.selenium.dev/" target=_blank" rel"noreferrer"> <img alt="Selenium WebDriver" height="30" width="30" src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png">
-</a> <a href="https://rest-assured.io/" target=_blank" rel"noreferrer"> <img alt="REST Assured" height="30" width="30" src="https://rest-assured.io/img/logo-transparent.png">
 </div>
