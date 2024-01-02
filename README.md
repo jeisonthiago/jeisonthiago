@@ -7,7 +7,9 @@
 </div>
 <br>
 
-<a href="https://linktr.ee/jeisonthiago"> <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Jeison Thiago"></a>
+<a href="#" onclick="return false;">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Jeison Thiago">
+</a>
 
 - 🎓 Graduando em Análise de Desenvolvimento de Sistemas.
 - 📚 Cursando Bacharelado em Engenharia de Software.
@@ -29,6 +31,7 @@ Experiência em automação de testes, incluindo planejamento e execução usand
 
 <div>
 </a> <a href="https://robotframework.org/" target=_blank" rel"noreferrer"> <img alt="Robot Framework" height="30" width="30" src="https://seeklogo.com/images/R/robot-framework-logo-FED576FF0B-seeklogo.com.png">
+</a> <a href="https://github.com/karatelabs/karate" target=_blank" rel"noreferrer"> <img alt="Karate Framework" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Karate_software_logo.svg/400px-Karate_software_logo.svg.png?20180222200206">
 </a> <a href="https://www.cypress.io/" target=_blank" rel"noreferrer"> <img alt="Cypress" height="30" width="30" src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2022/03/cypress.png?w=364&ssl=1">
 </a> <a href="https://www.python.org/" target=_blank" rel"noreferrer"> <img alt="Python" height="30" width="30" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png">
 </a> <a href="https://www.javascript.com/" target=_blank" rel"noreferrer"> <img alt="Javascript" height="30" width="30" src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png">
