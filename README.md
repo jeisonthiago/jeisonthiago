@@ -18,7 +18,7 @@
 - 📍 Morando em Manaus-AM (Brasil).
 
 <p align="justify"> 
-Experiência em automação de testes, incluindo planejamento e execução usando ferramentas como Robot Framework, Playwright, Appium e Cypress. Conhecimentos em Python e atualmente estudando Java com Cucumber, Selenium WebDriver e REST Assured para melhorar habilidades em testes de aplicações WEB e API. Buscando constante evolução na área, com foco em testes manuais e automatizados, para garantir a qualidade dos sistemas.
+Experiência em planejamento e execução de testes manuais e automatizados. Utilizo ferramentas e tecnologias como Robot Framework com SeleniumLibrary, Playwright para Web, Appium para aplicações Android, RequestsLibrary para testes de API, e possuo conhecimentos em Java com Appium, Selenium e RestAssured. Destaco ainda minhas habilidades com Karate Framework para testes de API REST e Cypress para testes automatizados de Web e API, assim como conhecimentos em JIRA, Azure DevOps e GitLab CI.
 </p>
 
 <a href="https://www.linkedin.com/in/jeisonthiago" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
